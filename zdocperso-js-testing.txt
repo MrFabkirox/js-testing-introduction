@@ -1,0 +1,6 @@
+why not working when doing it manually here in js-testing
+
+working with the clone in js-testing-introduction
+
+working full example:
+https://github.com/academind/js-testing-introduction
